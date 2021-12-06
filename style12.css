@@ -1,0 +1,84 @@
+.backcolor{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 0px 20px 0px 0px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 41px;
+    color: white;
+    font-weight: bold;
+    float: left;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+#box{
+    border: 1px solid gray;
+    background-color: rgb(235, 235, 235);
+    height: 80px;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+.falt{
+    font-size: 45px;
+    padding-top: 11px;
+}
+.link{
+    text-decoration: none;
+}
+#linkdin{
+    margin-left: 100px;
+}
+.side-link{
+    float: left;
+}
+#in{
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.enter{
+    font-size: 15px;
+    padding-left: 20px;
+}
+.decoration{
+    text-decoration: none;
+    padding: 0.5%;
+    color: black;
+}
+a.decoration:hover{
+    background-color: rgb(236, 222, 204);
+    border-radius: 6px;
+}
+.third-part{
+    width: 90%;
+    height: 280px;
+    background-image:linear-gradient(rgb(224, 125, 211),rgb(193, 19, 228));
+    color: white;
+    margin-top: 50px;
+    margin-left: 5%;
+    text-align: justify;
+    text-align: center;
+    padding-top: 15px;
+}
+.fog{
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+}
+a.fog:hover{
+    background-color: rgb(236,222,204);
+    border-radius: 6px;
+    padding: 0.5%;
+    font-weight: bold;
+}
+.none{
+    margin-top: 65px;
+    margin-left: 295px;
+}
+.png{
+    margin: 13%;
+}
